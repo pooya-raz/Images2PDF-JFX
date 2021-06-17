@@ -33,6 +33,7 @@ public class PrimaryController {
     @FXML
     private Button makePDFButton;
 
+
     @FXML
     public void initialize(){
         fileNameSet = true;
