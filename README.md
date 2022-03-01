@@ -1,5 +1,5 @@
 
-#Images2PDF-JFX 
+# Images2PDF-JFX 
 
 A JavaFX application that minimizes images combines them into a single pdf.
 
@@ -19,14 +19,14 @@ No prerequisites required.
 
 No installation required.
 
-##Packaging
+## Packaging
 
-###Shade
+### Shade
 Uses the maven-shade-plugin to create fat jars:
 
         mvn compile package
 
-###Jpackage
+### Jpackage
 Creates a standalone application from the fat jar made by shade:
 
         jpackage --input shade/ \
