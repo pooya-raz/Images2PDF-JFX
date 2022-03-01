@@ -1,5 +1,23 @@
+
+#Images2PDF-JFX 
+
 A JavaFX application that converts images to a single pdf.
 
+## Getting Started
+
+Photographers often need to share pictures via PDF. 
+It is a tedious process to resize images and individually add them to a single PDF. 
+Images2PDF saves time by resizing and collating the images into a single compressed PDF.
+
+Simply download the appropriate binary and run it.
+
+### Prerequisites
+
+No prerequisites required. 
+
+### Installing
+
+No installation required.
 
 ##Packaging
 
@@ -22,3 +40,23 @@ Creates a standalone application from the fat jar made by shade:
         --mac-package-name "Images2PDF" \
         --verbose \
         --java-options '--enable-preview'
+
+## Built With
+
+* [JavaFX](https://openjfx.io/) - A Java GUI library 
+* [iText](https://itextpdf.com/en) - PDF library
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+
+## Authors
+
+* **Christopher Pooya Razavian** - *Initial work* - [pooya-raz](https://github.com/pooya-raz)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License. 
+
