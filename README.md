@@ -1,7 +1,7 @@
 
 #Images2PDF-JFX 
 
-A JavaFX application that converts images to a single pdf.
+A JavaFX application that minimizes images combines them into a single pdf.
 
 ## Getting Started
 
